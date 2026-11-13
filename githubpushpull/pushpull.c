@@ -4,11 +4,11 @@ int main()
 {
 	printf("1\n");
 
-	printf("hello\n");
+	printf("2\n");
 
-	printf("Hello, World!\n");
+	printf("3\n");
 
-	printf("yo\n");
+	printf("4\n");
 
 	return 0;
 }
